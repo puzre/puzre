@@ -1,5 +1,5 @@
 
-`Hi there 👋, I'm José Antonio` <img src="[https://giphy.com/embed/JIX9t2j0ZTN9S](https://giphy.com/embed/JIX9t2j0ZTN9S)" width="200" align="right" alt="Coder gif"/>
+`Hi there 👋, I'm José Antonio` <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29scnFyNmRnc3gyemRjbTJqOTg0Nnd2cDBpZWV1enVnNjI1Ym41ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right" alt="Coder gif"/>
 
 `🌱 Android Native & Java Backend Developer`
 
